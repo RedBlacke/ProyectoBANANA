@@ -7,6 +7,7 @@
 [AÃ±ade una imagen de tu juego.]: #
 
 <img src="imagen.jpg" width="80%" height="Auto">
+![Captura de pantalla 2025-05-30 205531](https://github.com/user-attachments/assets/e2c7eac7-15ad-4021-94dc-73eadee12633)
 
 ## Tabla de evaluaciÃ³n del equipo.
 
