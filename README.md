@@ -51,6 +51,7 @@ Click izquierdo: atacar
 [Incluye ejemplos claros o diagramas.]: # 
 
 ## 5. Personajes
+![Captura de pantalla 2025-05-14 231824](https://github.com/user-attachments/assets/634ec89a-4cd7-4aaa-8a30-dee9a2fccf1a)
 
 [Es importante que incluyan al menos dos personajes principales completamente diseÃ±ados.]: # 
 
