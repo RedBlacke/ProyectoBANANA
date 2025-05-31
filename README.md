@@ -36,7 +36,12 @@ Saltar: Espacio
 
 Wasd: Movimiento
 
-Atacar: Click izquierdo.
+
+Click izquierdo: atacar
+
+![controles](https://github.com/user-attachments/assets/a00abb99-4722-4d52-83f5-c903002c4229)
+
+
 ## 3. Mundo del juego
 
 [Es importante que su proyecto abarque al menos 4 hojas.]: # 
