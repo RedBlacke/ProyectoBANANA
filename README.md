@@ -16,15 +16,15 @@
 | Paragraph | Text |  - | - |
 
 ## 1. PropÃ³sito de tu juego
-
+Pasar varias plataformas evitando ser comido y escapar de Felix, el gato.
 ### 1.1 Resumen del juego
 
 [Escribe un resumen de mÃ­nimo 150 palabras.]: # 
-
+Un platano andante busca escapar de un gato que quiere comerlo.
 ### 1.2 Resumen de la historia del juego
 
 [Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
-
+Pit es un Platano normal que adquirió conciencia junto con piernas, su misión en la vida es evitar ser comido por el gato Felix y vivir un dia más.
 ### 1.3 Resumen de la historia del juego.
 
 [Incluyan entre 6 y 10 puntos en la lista.]: # 
@@ -32,7 +32,11 @@
 ## 2. Jugabilidad
 
 [Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
+Saltar: Espacio
 
+Wasd: Movimiento
+
+Atacar: Click izquierdo.
 ## 3. Mundo del juego
 
 [Es importante que su proyecto abarque al menos 4 hojas.]: # 
