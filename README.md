@@ -69,8 +69,10 @@ Para el mundo del juego se busca crear una atmosfera muy común, se pensó en un
 ## 4. MecÃ¡nicas del Juego
 ![Captura de pantalla 2025-05-30 205531](https://github.com/user-attachments/assets/b37bf0c0-5bf7-4ea8-9644-fda404acfa74)
 [Incluye ejemplos claros o diagramas.]: # 
+
 El juego es una aventura de plataformas en 2D protagonizada por Pit, una banana que intenta escapar desesperadamente de Félix, un gato hambriento que lo perseguirá a lo largo de diversos entornos dentro de una casa. El objetivo principal del jugador es evadir al gato y sobrevivir usando agilidad, reflejos y el aprovechamiento inteligente de las mecánicas únicas de cada sección
- Controles Principales
+
+Controles Principales
 WASD – Movimiento
 
 Espacio – Salto
