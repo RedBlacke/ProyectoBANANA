@@ -56,6 +56,12 @@ Click izquierdo: atacar
 
 
 ## 3. Mundo del juego
+![Captura de pantalla 2025-06-23 224542](https://github.com/user-attachments/assets/97b32fed-a3ae-48ac-ad56-1ad22d4630b6)
+![Captura de pantalla 2025-06-23 224610](https://github.com/user-attachments/assets/4c4fa00e-6926-437d-8a89-a2cbd3de3c48)
+![Captura de pantalla 2025-06-23 224625](https://github.com/user-attachments/assets/9259642f-e8b9-45cf-8e44-dfea6da442bb)
+![Captura de pantalla 2025-06-23 224637](https://github.com/user-attachments/assets/315a3aaa-c1b3-4cac-bed5-d9ed9ed8462c)
+![Captura de pantalla 2025-06-23 224651](https://github.com/user-attachments/assets/f01f114a-cd86-4488-aee4-1d2988fe1875)
+![Captura de pantalla 2025-06-23 224715](https://github.com/user-attachments/assets/a024ff54-27d9-4600-82dd-6ed842ef7824)
 
 [Es importante que su proyecto abarque al menos 4 hojas.]: # 
 
