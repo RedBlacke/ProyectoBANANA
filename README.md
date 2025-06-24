@@ -85,6 +85,9 @@ Algo que es importante resaltar es que se hizo el diseño de personajes en 3D y 
 [Es importante que incluyan al menos dos personajes principales completamente diseÃ±ados.]: # 
 
 ## 6. Plan del proyecto
+El plan del proyecto está ordenado por semanas y se resaltaron las fechas de entregas parciales.
+![diagrama](https://github.com/user-attachments/assets/9844f121-8584-48ad-87a4-f6fd8e8f39e6)
+
 
 [El plan debe incluir un diagrama de Gantt con el cronograma de desarrollo, ten en cuenta las fechas.]: # 
 
