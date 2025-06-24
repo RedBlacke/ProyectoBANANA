@@ -3,6 +3,7 @@
 
 [Escribe los nombres de los integrantes de tu equipo.]: # 
 Brayan Sosa Ramos, Jesús Erick Ramírez Díaz y Kaleb Moisés Montes Montes.
+![banana oddysey](https://github.com/user-attachments/assets/c7a5e86f-ff5d-4001-a239-68792bd75dc5)
 
 
 [AÃ±ade una imagen de tu juego.]: #
