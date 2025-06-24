@@ -60,6 +60,8 @@ Click izquierdo: atacar
 
 
 ## 3. Mundo del juego
+Para el mundo del juego se busca crear una atmosfera muy común, se pensó en un espacio donde se pudiera desarrollar la historia de un plátano y la travesía que experimentaría tratando de salvar su vida, optamos por una cocina ya que es uno de los lugares donde es más común ver estas frutas, quisimos darle una perspectiva donde el plátano sea pequeño y la cocina sea grande, este detalle ayuda a darle hasta cierto punto un toque de realismo y hace al juego más interesante.
+
 ![Captura de pantalla 2025-06-23 224542](https://github.com/user-attachments/assets/97b32fed-a3ae-48ac-ad56-1ad22d4630b6)
 ![Captura de pantalla 2025-06-23 224610](https://github.com/user-attachments/assets/4c4fa00e-6926-437d-8a89-a2cbd3de3c48)
 ![Captura de pantalla 2025-06-23 224625](https://github.com/user-attachments/assets/9259642f-e8b9-45cf-8e44-dfea6da442bb)
