@@ -9,6 +9,9 @@
 <img src="imagen.jpg" width="80%" height="Auto">
 
 ![Captura de pantalla 2025-05-30 205531](https://github.com/user-attachments/assets/b37bf0c0-5bf7-4ea8-9644-fda404acfa74)
+![spin](https://github.com/user-attachments/assets/9eadad7e-e341-4603-9466-fe5490971f7d)
+![3](https://github.com/user-attachments/assets/2eb21c1d-ee52-4fcd-8495-7dccfb0e04c5)
+![2](https://github.com/user-attachments/assets/f0301b79-ac65-407e-a017-1c8fca97318a)
 
 ## Tabla de evaluaciÃ³n del equipo.
 
