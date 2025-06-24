@@ -71,7 +71,7 @@ Para el mundo del juego se busca crear una atmosfera muy común, se pensó en un
 [Es importante que su proyecto abarque al menos 4 hojas.]: # 
 
 ## 4. MecÃ¡nicas del Juego
-
+![Captura de pantalla 2025-05-30 205531](https://github.com/user-attachments/assets/b37bf0c0-5bf7-4ea8-9644-fda404acfa74)
 [Incluye ejemplos claros o diagramas.]: # 
 
 ## 5. Personajes
