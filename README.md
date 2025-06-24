@@ -11,10 +11,8 @@ Brayan Sosa Ramos, Jesús Erick Ramírez Díaz y Kaleb Moisés Montes Montes.
 
 ## Tabla de evaluaciÃ³n del equipo.
 
-| Nombre | ColaboraciÃ³n | ComunicaciÃ³n | Responsabilidad
-| ----------- | ----------- | ----------- | ----------- |
-| Header | Title | - | - |
-| Paragraph | Text |  - | - |
+![EVALUACION](https://github.com/user-attachments/assets/8f43df50-705e-47f0-bfc2-64f0d6264267)
+
 
 ## 1. PropÃ³sito de tu juego
 El propósito principal de nuestro juego es ofrecer una experiencia dinámica y divertida mediante un juego de plataformas, protagonizado por un pobre Plátano que intenta escapár para no ser 
