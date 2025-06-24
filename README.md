@@ -1,7 +1,8 @@
 # ProyectoBANANA
 **Desarrolladores:**
 
-[Escribe los nombres de los integrantes de tu equipo.]: # Brayan Sosa Ramos, Jesús Erick Ramírez Díaz y Kaleb Moisés Montes Montes.
+[Escribe los nombres de los integrantes de tu equipo.]: # 
+Brayan Sosa Ramos, Jesús Erick Ramírez Díaz y Kaleb Moisés Montes Montes.
 
 
 [AÃ±ade una imagen de tu juego.]: #
