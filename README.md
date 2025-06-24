@@ -69,6 +69,61 @@ Para el mundo del juego se busca crear una atmosfera muy común, se pensó en un
 ## 4. MecÃ¡nicas del Juego
 ![Captura de pantalla 2025-05-30 205531](https://github.com/user-attachments/assets/b37bf0c0-5bf7-4ea8-9644-fda404acfa74)
 [Incluye ejemplos claros o diagramas.]: # 
+El juego es una aventura de plataformas en 2D protagonizada por Pit, una banana que intenta escapar desesperadamente de Félix, un gato hambriento que lo perseguirá a lo largo de diversos entornos dentro de una casa. El objetivo principal del jugador es evadir al gato y sobrevivir usando agilidad, reflejos y el aprovechamiento inteligente de las mecánicas únicas de cada sección
+ Controles Principales
+WASD – Movimiento
+
+Espacio – Salto
+
+Click Izquierdo – Ataque
+
+Mecánica Central: Velocidad Dinámica
+Una de las mecánicas más relevantes del juego es la manipulación de la velocidad del personaje mediante el sistema de ataque que funciona como dash.
+
+La velocidad base del personaje es 1.
+
+Al utilizar el dash (ataque), la velocidad aumenta temporalmente en +0.25 por cada uso consecutivo.
+
+La velocidad máxima es 2.
+
+Si el personaje permanece en el suelo sin usar dash, su velocidad se reduce progresivamente en -0.25 por segundo, hasta volver a 1.
+
+Esta mecánica premia el movimiento constante y habilidoso, permitiendo al jugador generar velocidad suficiente para escapar más rápido del gato en secciones de persecución
+
+Mecánicas por Nivel / Sección
+Nivel Tutorial – Cocina
+El jugador inicia siendo perseguido por Félix.
+
+Se presenta la mecánica de velocidad progresiva mediante el dash.
+
+Si el gato alcanza a Pit, el jugador sufre daño hasta perder.
+
+Introduce la tensión principal del juego: persecución constante
+
+Nivel 1 – Sección 1: Baño (Piso Mojado)
+El piso está completamente mojado, y Pit entra en estado de deslizamiento automático.
+
+Durante esta sección:
+
+El jugador no puede moverse, solo puede saltar y hacer dash.
+
+La velocidad en esta sección aumenta automáticamente a 3, pero solo mientras el personaje esté sobre el piso mojado.
+
+Se convierte en un nivel de reacción rápida y control limitado.
+
+Nivel 1 – Sección 2: Ático (Luz Mortal)
+El ático introduce una mecánica de sigilo basada en luz.
+
+Si el jugador permanece demasiado tiempo bajo una fuente de luz, Félix lo detecta y lo elimina instantáneamente.
+
+El jugador debe moverse estratégicamente entre zonas de sombra y evitar detenerse bajo la luz.
+
+Nivel 2 – Cocina + Sala (Persecución Final)
+Pit regresa a la cocina desde el ático y es nuevamente perseguido por Félix.
+
+Este tramo funciona como una persecución final, con un ritmo más intenso y la integración de todos los elementos anteriores, en esta ocacion felix te eliminara instantaneamente si te atrapa y sera mas rapido haciendo mas dificil e intensa la persecucion final.
+
+Obstáculos, plataformas, zonas peligrosas y la mecánica de velocidad dinámica se combinan para crear un clímax de alta tensión que concluye con la llegada a la sala y la escapatoria definitiva.
 
 ## 5. Personajes
 Para el diseño de los personajes queríamos que tuvieran un estilo retro de dibujo animado, sentimos que este estilo le da un toque de originalidad y estética al juego.
