@@ -18,7 +18,9 @@
 | Paragraph | Text |  - | - |
 
 ## 1. PropÃ³sito de tu juego
-Pasar varias plataformas evitando ser comido y escapar de Felix, el gato.
+El propósito principal de nuestro juego es ofrecer una experiencia dinámica y divertida mediante un juego de plataformas, protagonizado por un pobre Plátano que intenta escapár para no ser 
+la cena de un malvado gato llamado Félix. El propósito igualmente es fomentar la atención, reflejos y una toma rápida de decisiones para los jugadores, Todo esto en una aventura un tanto 
+absurda pero divertida; haciendo pasar un buen rato al jugador.
 ### 1.1 Resumen del juego
 
 [Escribe un resumen de mÃ­nimo 150 palabras.]: # 
