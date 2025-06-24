@@ -24,11 +24,17 @@ absurda pero divertida; haciendo pasar un buen rato al jugador.
 ### 1.1 Resumen del juego
 
 [Escribe un resumen de mÃ­nimo 150 palabras.]: # 
-Un platano andante busca escapar de un gato que quiere comerlo.
+Este juego es un plataformero en 2D protagonizado por un plátano que intenta escapar de un gato llamado Félix. A lo largo de diferentes niveles, el jugador deberá correr, saltar y esquivar obstáculos para evitar ser atrapado.
+El juego combina acción, agilidad y humor, con una jugabilidad sencilla pero desafiante, esto se hace con la intención de que el juego resulte interesante y sencillo pero en ningún momento llegue a ser aburrido.
+Con gráficos coloridos y diseños interesantes, el juego busca ofrecer una experiencia entretenida para jugadores de todas las edades y ser un juego que no salga fácilmente de la mente de los jugadores.
+
+
 ### 1.2 Resumen de la historia del juego
 
 [Entre 80 y 100 palabras, manteniendo un enfoque claro en los puntos mencionados.]: # 
-Pit es un Platano normal que adquirió conciencia junto con piernas, su misión en la vida es evitar ser comido por el gato Felix y vivir un dia más.
+Pit es un Platano normal que adquirió conciencia junto con piernas, su misión en la vida es evitar ser comido por el gato Felix y vivir un dia más. Este es un juego de plataformas donde el protagonista es un valiente y atrevido plátano con piernas, su misión es escapar de un gato llamado Felix, el cual está obsesionado con atraparlo para comerlo.
+A lo largo de los niveles, el jugador deberá de ser el salvador de nuestro querido amigo Platanoso, ayudándolo a escapar, saltando entre diferentes obstáculos y trampas.
+
 ### 1.3 Resumen de la historia del juego.
 
 [Incluyan entre 6 y 10 puntos en la lista.]: # 
