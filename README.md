@@ -45,7 +45,7 @@ A lo largo de los niveles, el jugador deberá de ser el salvador de nuestro quer
 ## 2. Jugabilidad
 
 [Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
-El que el jugador controla a un plátano que debe escapar del gato Félix. Los controles son sencillos e intuitivos: se usa W, A, S y D para moverse, espacio para saltar y el clic del mouse para lanzar atacar, todo con el objetivo de escapar del malvado gato.
+La jugabilidad es sencilla, el jugador controla a un plátano que debe escapar del gato Félix. Los controles son sencillos e intuitivos: se usa W, A, S y D para moverse, espacio para saltar y el clic del mouse para lanzar atacar, todo con el objetivo de escapar del malvado gato.
 El jugador deberá atravesar niveles llenos de obstáculos, plataformas, trampas y enemigos menores, mientras trata de seguir con vida. Se busca que todos estos elementos sirvan para obligar al jugador a reaccionar con rapidez y precisión.
 A medida que se avanza en el juego, se desbloquean nuevos escenarios. El juego combina acción, agilidad y humor, ofreciendo una experiencia accesible pero desafiante.
 
